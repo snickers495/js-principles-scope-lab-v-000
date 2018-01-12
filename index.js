@@ -16,5 +16,5 @@ function overwriteBestCustomer(){
   bestCustomer = "maybe bob";
 }
 function changeLeastFavoriteCustomer(){
-  new TypeError;
+  leastFavoriteCustomer = "bob";
 }
