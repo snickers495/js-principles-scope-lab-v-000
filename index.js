@@ -2,5 +2,5 @@
 var customerName = 'bob'
 
 def upperCaseCustomerName(customerName) {
-
+  return customerName.toUpperCase();
 }
